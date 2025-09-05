@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Consul">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/new_consul.go" />
+              <option value="file://$PROJECT_DIR$/unilt/consul.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/unilt/consul.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulGrpc">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service_consul/grpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulGrpcs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/service_consul/grpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/new_consul.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulServiceApi">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api_consul/grpc.go" />
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+              <option value="file://$PROJECT_DIR$/new_consul.go" />
+              <option value="file://$PROJECT_DIR$/types/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Grpc">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/unilt/grpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api_consul/grpc.go" />
+              <option value="file://$PROJECT_DIR$/config/config.go" />
+              <option value="file://$PROJECT_DIR$/new_consul.go" />
+              <option value="file://$PROJECT_DIR$/types/config.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/api/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757056110797" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/api_consul/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757063094445" />
+              <option name="schema">
+                <list>
+                  <option value="ConsulServiceApi" />
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757061227449" />
+              <option name="schema">
+                <list>
+                  <option value="ConsulServiceApi" />
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757061540125" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/new_consul.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757063006993" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/service_consul/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757063116999" />
+              <option name="schema">
+                <list>
+                  <option value="ConsulGrpcs" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/types/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757061393462" />
+              <option name="schema">
+                <list>
+                  <option value="ConsulServiceApi" />
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/unilt/consul.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757055470308" />
+              <option name="schema">
+                <list>
+                  <option value="Consul" />
+                  <option value="ConsulData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/unilt/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757063886356" />
+              <option name="schema">
+                <list>
+                  <option value="Grpc" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://D:/go/GOPATH/src/electron_business/gateware_api/basic/init/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757057091902" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="consul" value="Consul" />
+        <entry key="consul_data" value="ConsulData" />
+        <entry key="consul_grpc" value="ConsulGrpc" />
+        <entry key="consul_grpcs" value="ConsulGrpcs" />
+        <entry key="consul_service" value="ConsulService" />
+        <entry key="consul_service_api" value="ConsulServiceApi" />
+        <entry key="grpc" value="Grpc" />
+        <entry key="service" value="Service" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1757055052590" />
+  </component>
+</project>
