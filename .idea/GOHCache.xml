@@ -46,6 +46,7 @@
               <option value="file://$PROJECT_DIR$/config/config.go" />
               <option value="file://$PROJECT_DIR$/new_consul.go" />
               <option value="file://$PROJECT_DIR$/types/config.go" />
+              <option value="file://D:/go/GOPATH/pkg/mod/github.com/zhangcook/consul_api_rpc@v0.0.0-20250905092007-2236af9a6e40/api_consul/grpc.go" />
             </set>
           </value>
         </entry>
@@ -63,6 +64,7 @@
               <option value="file://$PROJECT_DIR$/config/config.go" />
               <option value="file://$PROJECT_DIR$/new_consul.go" />
               <option value="file://$PROJECT_DIR$/types/config.go" />
+              <option value="file://D:/go/GOPATH/pkg/mod/github.com/zhangcook/consul_api_rpc@v0.0.0-20250905092007-2236af9a6e40/api_consul/grpc.go" />
             </set>
           </value>
         </entry>
@@ -87,7 +89,7 @@
         <entry key="file://$PROJECT_DIR$/api_consul/grpc.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1757064617450" />
+              <option name="lastModified" value="1757074173563" />
               <option name="schema">
                 <list>
                   <option value="ConsulServiceApi" />
@@ -174,6 +176,19 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://D:/go/GOPATH/pkg/mod/github.com/zhangcook/consul_api_rpc@v0.0.0-20250905092007-2236af9a6e40/api_consul/grpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1757065989409" />
+              <option name="schema">
+                <list>
+                  <option value="ConsulServiceApi" />
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://D:/go/GOPATH/src/electron_business/gateware_api/basic/init/grpc.go">
           <value>
             <ScannedPath>
@@ -184,7 +199,7 @@
         <entry key="file://D:/go/GOPATH/src/electron_business/user_service/basic/cmd/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1757064206391" />
+              <option name="lastModified" value="1757065695275" />
               <option name="schema">
                 <list>
                   <option value="server" />

@@ -12,6 +12,7 @@ type ConsulServiceApi struct {
 	ConsulAddress string
 	Name          string
 	Service       []Service
+	SleepTime     time.Duration
 }
 
 type Service struct {
@@ -71,7 +72,7 @@ func Grpc(c *ConsulServiceApi) {
 				}
 			}
 			log.Println("===============================================")
-			time.Sleep(6 * time.Minute)
+			time.Sleep(c.SleepTime)
 			log.Println("进入Consul心跳检查")
 		}
 	}()
