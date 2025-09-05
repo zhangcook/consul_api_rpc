@@ -62,7 +62,7 @@ func Grpc(c *ConsulServiceApi) {
 
 						} else {
 							ServiceAddress = i2.ServiceAddress
-							log.Println("|" + i2.ServiceAddress + "获取服务失败,使用默认地址进行连接")
+							log.Println("|" + i2.ServiceName + "获取服务失败,使用默认地址进行连接")
 						}
 						log.Println("|服务端口:" + ServiceAddress)
 						ServiceGrpc(ServiceAddress)
