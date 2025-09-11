@@ -1,4 +1,4 @@
-package new_consul
+package consul_api_rpc
 
 import (
 	"github.com/zhangcook/consul_api_rpc/api_consul"
