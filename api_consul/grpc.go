@@ -72,6 +72,9 @@ func Grpc(c *ConsulServiceApi) {
 				}
 			}
 			log.Println("===============================================")
+			if c.SleepTime == 0 {
+				c.SleepTime = 10 * time.Second
+			}
 			time.Sleep(c.SleepTime)
 			log.Println("进入Consul心跳检查")
 		}
